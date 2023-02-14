@@ -1,0 +1,3 @@
+db - mysql (db hosting)
+
+web page - php (connection to db), react.js (web displaying), matter.js (simulation tool)
